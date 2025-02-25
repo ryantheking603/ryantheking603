@@ -1,4 +1,18 @@
-## Hi there 👋
+<h1>Hello, I'm Ryan Houlahan!</h1>
+
+<h2>Game Development Projects:</h2>
+
+<h2>Programming Projects:</h2>
+
+<h2>Art Projects:</h2>
+<h3>2D Pixel Art:</h3>
+<h3>3D Modeling:</h3>
+
+<h2>Connect with me:</h2>
+
+[<img align="left" alt="Ryan Houlahan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/ryan-houlahan/
 
 <!--
 **ryantheking603/ryantheking603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
