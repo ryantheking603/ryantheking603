@@ -1,6 +1,7 @@
 <h1>Hello, I'm Ryan Houlahan!</h1>
 
 <h2>Game Development Projects:</h2>
+Wizard Game: https://github.com/ryantheking603/WizardGame
 
 <h2>Programming Projects:</h2>
 
