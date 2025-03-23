@@ -5,9 +5,10 @@
 <h2>Programming Projects:</h2>
 
 <h2>Art Projects:</h2>
-<h3>2D Pixel Art:</h3>
-<h3>3D Modeling:</h3>
-Autodesk Maya & Adobe Substance 3D Painter: https://github.com/ryantheking603/3D-Models
+<h3>2D Art:</h3>
+Pixel Art: https://github.com/ryantheking603/Pixel-Art-Assets
+<h3>3D Art:</h3>
+3D Models and Textures: https://github.com/ryantheking603/3D-Models
 
 <h2>Connect with me:</h2>
 
